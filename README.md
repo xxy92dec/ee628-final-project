@@ -2,7 +2,7 @@
 ee628-final-project. at Stevens
 
 ## Introduction
-I want to make an app for teachers. This app can assist teachers to evaluate students' handwritten math answer from homework, quiz and exam.
+I want to make an app for teachers. This app can assist teachers to evaluate students' handwritten math answer from homework, quiz and exam. 
 
 It can automatically judge students' final answer is right or wrong. 
 
@@ -10,6 +10,10 @@ It can automatically judge students' final answer is right or wrong.
 Database: MNIST database and other database if necessary.
 
 ## Basic Function
+For Solution given by teachers
+It can read simple math question from a txt file, then get the answer of these questions.
+
+For Solution given by students
 It can read handwritten answers in a answer book line by line.  
 
 
