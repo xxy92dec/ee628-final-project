@@ -12,7 +12,7 @@ Database: MNIST database and other database if necessary.
 ## Basic Function
 For Solution given by teachers
 It can read simple math question from a txt file, then get the answer of these questions.
-P.S. Can't find a good dataset for math symbol and numbers. so Currently, teacher have to input solution.
+P.S. Can't find a good dataset for math symbol and numbers. So currently, teachers have to input solution.
 
 For Solution given by students
 It can read handwritten answers in a answer book line by line.  
