@@ -25,6 +25,8 @@ So currently, teachers have to input solution.
 
 This project can only detect and classification handwritten digits line by line.
 
+Due to lack more handwritten image, there must be some bugs not solved. I solve the bugs I've found from teseting some handwritten image printscreen from OneNote. 
+
 ## About 2 ipynb file
 Classification.ipynb is the model-trainning file.
 
